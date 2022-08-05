@@ -1,0 +1,10 @@
+.homePage__header {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  padding: 5px;
+}
+
+.homePage__header > img {
+  margin: 0px 5px;
+}

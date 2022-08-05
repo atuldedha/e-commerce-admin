@@ -1,0 +1,13 @@
+.sidebarOptions {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebarOptions__options {
+  display: flex;
+  align-items: center;
+}
+
+.active {
+  background: #cfd8dc;
+}
